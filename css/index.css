@@ -5,8 +5,11 @@ body {
   margin-top: 50px;
 }
 .carousel-caption {
-  color: white;
-  background-color: grey;
+  background-color: #68f2ed;
+  opacity: .9;
   font-weight: bold;
-  opacity: 45%;
+}
+.carousel-caption h1,
+.carousel-caption h4 {
+  color: white;
 }
