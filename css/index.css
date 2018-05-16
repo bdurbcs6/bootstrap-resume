@@ -4,3 +4,9 @@ body {
 .carousel-inner {
   margin-top: 50px;
 }
+.carousel-caption {
+  color: white;
+  background-color: grey;
+  font-weight: bold;
+  opacity: 45%;
+}
