@@ -1,5 +1,11 @@
+html {
+  height: 100%;
+}
 body {
+  height: 100%;
   background: linear-gradient(180deg, #f56a6a, #68f2ed);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 .container {
   padding-bottom: 50px;
