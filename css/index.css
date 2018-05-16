@@ -8,6 +8,7 @@ body {
   background-attachment: fixed;
 }
 .container {
+  max-width: 880px;
   padding-bottom: 50px;
 }
 .carousel-inner {
@@ -40,4 +41,8 @@ body {
 }
 .about-me p {
   font-size: 18px;
+}
+.card {
+  margin-top: 50px;
+  width: 100%;
 }
