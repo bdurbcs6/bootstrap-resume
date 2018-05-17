@@ -8,8 +8,8 @@ body {
   background-attachment: fixed;
 }
 .container {
-  max-width: 880px;
   padding-bottom: 50px;
+  max-width: 1000px;
 }
 .carousel-inner {
   margin-top: 50px;
@@ -47,8 +47,16 @@ body {
 }
 .card {
   margin-top: 50px;
-  width: 100%;
 }
 .aboutme-row {
   align-content: space-between;
+}
+.quote-row {
+  padding: 0;
+}
+.quote-row p {
+  text-align: center;
+}
+.quote-col {
+  padding: 0;
 }
