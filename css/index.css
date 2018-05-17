@@ -23,6 +23,9 @@ body {
 .carousel-caption h4 {
   color: white;
 }
+.allthethings {
+  padding-right: 0;
+}
 .list-group {
   margin-top: 50px;
 }
@@ -47,5 +50,5 @@ body {
   width: 100%;
 }
 .aboutme-row {
-  justify-content: space-between;
+  align-content: space-between;
 }
